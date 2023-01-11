@@ -1,4 +1,4 @@
-# React Testing Techniques
+# React Testing Example
 
 This project demonstrates best practices in testing React applications by
 implementing a realistic online shopping application. It is also the repository
